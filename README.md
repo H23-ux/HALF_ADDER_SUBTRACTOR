@@ -35,6 +35,13 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+Half adder
+![image](https://github.com/user-attachments/assets/27d53b19-5acb-4679-92fc-c623c2bcd14f)
+
+
+Half subtractor
+![image](https://github.com/user-attachments/assets/b55b1230-34fa-4c53-9b62-add046a87682)
+
 **Procedure**
 
 1.	Type the program in Quartus software.
