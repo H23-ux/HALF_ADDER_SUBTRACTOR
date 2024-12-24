@@ -36,11 +36,14 @@ Figure -02 HALF Subtractor
 **Truthtable**
 
 Half adder
-![image](https://github.com/user-attachments/assets/27d53b19-5acb-4679-92fc-c623c2bcd14f)
+
+![image](https://github.com/user-attachments/assets/493954ee-4e3f-473a-b0b7-9b5c1f575b08)
 
 
 Half subtractor
-![image](https://github.com/user-attachments/assets/b55b1230-34fa-4c53-9b62-add046a87682)
+
+![image](https://github.com/user-attachments/assets/45f18c8f-34fd-4047-ae2b-5ce82ea5b042)
+
 
 **Procedure**
 
@@ -91,16 +94,24 @@ assign borrow= ( ~a & b);
 
 endmodule
 
-**RTL Schematic**
+**RTL Schematic Diagram**
+
 half adder
+
 ![Screenshot (5)](https://github.com/user-attachments/assets/1f946efb-8e3e-409d-8439-936eadca3640)
+
 half subtractor
+
 ![Screenshot (7)](https://github.com/user-attachments/assets/3f70f384-ca14-4532-b42b-87cf58b8da1d)
 
-**Output/TIMING Waveform**
+**Output**
+
 half adder
+
 ![Screenshot (6)](https://github.com/user-attachments/assets/b7cb561f-1590-41e5-8958-84f073f2af27)
+
 half subtractor
+
 ![Screenshot (8)](https://github.com/user-attachments/assets/a7bc6993-a697-4339-a479-358437b1326f)
 
 **Result**
